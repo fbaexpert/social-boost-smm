@@ -1,1 +1,0 @@
-const UserDashboard = () => <h2 style={{ color: "#0ff" }}>Welcome User</h2>; export default UserDashboard;
