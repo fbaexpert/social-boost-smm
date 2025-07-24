@@ -1,1 +1,0 @@
-const AdminDashboard = () => <h2 style={{ color: "#0ff" }}>Welcome Admin</h2>; export default AdminDashboard;
